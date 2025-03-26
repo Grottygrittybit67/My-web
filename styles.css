@@ -1,0 +1,22 @@
+/* General body styling */
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    color: #333; /* Dark gray text */
+    font-family: Arial, sans-serif; /* Clean font */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading styling */
+h1 {
+    color: #2e8b57; /* Green color for the heading */
+    text-align: center; /* Center the heading */
+    margin-bottom: 20px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px; /* Slightly larger text for readability */
+    line-height: 1.6; /* Add spacing between lines */
+    text-align: justify; /* Justify the text */
+}
